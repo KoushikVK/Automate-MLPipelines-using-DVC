@@ -1,5 +1,7 @@
 ## workflow -
 <img src="others/images/simple-workflow-01@2x.png" alt="workflow" width="70%">
+![image](https://user-images.githubusercontent.com/51470326/151706771-4a27d33a-065d-4b93-8573-44004cdc4460.png)
+
 
 # STEPS:
 ## STEP 01: Create a empty remote repository
