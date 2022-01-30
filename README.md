@@ -1,7 +1,8 @@
 ## workflow -
 <img src="others/images/simple-workflow-01@2x.png" alt="workflow" width="70%">
 
-https://user-images.githubusercontent.com/51470326/151706771-4a27d33a-065d-4b93-8573-44004cdc4460.png
+![image](https://user-images.githubusercontent.com/51470326/151706795-51b6c766-b1f6-44df-aa43-5d742f6b6a0b.png)
+
 
 
 # STEPS:
